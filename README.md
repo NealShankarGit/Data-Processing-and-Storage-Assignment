@@ -12,13 +12,19 @@ This repository contains the implementation of an in-memory key-value database w
 No additional libraries are required to run the script. Ensure you have Python installed on your system.
 
 ### Running the Application
-1. Clone the repository:
-**git clone git@github.com:<your-username>/Data-Processing-and-Storage-Assignment.git
-**Replace `<your-username>` with your GitHub username.
-3. Navigate to the repository directory:
-**cd Data-Processing-and-Storage-Assignment
-4. Run the script:
-**python main.py
+1. **Clone the repository**:
+
+   git clone git@github.com:<your-username>/Data-Processing-and-Storage-Assignment.git
+
+   Replace `<your-username>` with your GitHub username.
+
+3. **Navigate to the repository directory:**  
+
+    cd Data-Processing-and-Storage-Assignment
+
+3. **Run the script**:  
+
+    python main.py
 
 ## Modifications for Official Assignment
 To make this assignment suitable as an official part of a curriculum, it would benefit from the following modifications:
